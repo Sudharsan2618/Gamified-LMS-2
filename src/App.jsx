@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useEffect } from "react";
 import yes from "../assets/yes.mp4";
 import no from "../assets/no.mp4";
-import defaultVideo from "./videos/yes.mp4"; // Your default background video
+import defaultVideo from "../assets/yes.mp4"; // Your default background video
 
 const questions = [
   {
